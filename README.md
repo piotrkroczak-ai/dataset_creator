@@ -21,11 +21,9 @@ Three modes cover the full evaluation spectrum:
 
 ## Demo
 
-🚧 Demo video currently in preparation.
+[![Watch the demo](https://img.youtube.com/vi/mJ40BSJ_DvA/maxresdefault.jpg)](https://youtu.be/mJ40BSJ_DvA)
 
-[![Watch the demo](docs/images/demo-thumbnail.png)](https://youtu.be/VIDEO_ID)
-
-<!-- Replace VIDEO_ID with the YouTube video id, and add docs/images/demo-thumbnail.png -->
+Watch the demo on YouTube: https://youtu.be/mJ40BSJ_DvA
 
 ---
 
